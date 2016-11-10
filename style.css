@@ -1,0 +1,49 @@
+header{
+	height:150px;
+    background:#D3B1DD;
+    border:1px solid #D3B1DD;
+    width: 100%;
+    margin:0px auto;
+    vertical-align: middle;
+}
+
+#title{
+	text-align: center;
+	vertical-align: middle;
+}
+body{
+	margin:0px;
+	font-family: Arial;
+}
+li{
+	list-style-type: none; 
+}
+ul{
+	margin: 0px;
+	padding: 0px;
+}
+div{
+	width: 100%;
+	margin:10px;
+	padding:8px;
+	background-color: #EFDFF3;
+	border: 1px solid pink;
+	border-radius: 10px;
+	display: inline-flex;
+}
+
+#scope, #closure{
+	width: 200px;
+	border: 0px solid pink;
+	margin: 0px;
+	padding: 0px;
+	float: right;
+}
+#scope img, #closure img{
+	/*margin-left: 95%;*/
+}
+
+img{
+	border-radius: 10px;
+}
+
